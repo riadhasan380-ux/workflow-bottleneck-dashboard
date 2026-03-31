@@ -14,8 +14,7 @@ This project analyzes service workflow performance using Power BI to identify bo
 
 ## Dashboard Preview
 
-![Workflow Dashboard](workflow-dashboard.png)
-
+![Dashboard](./workflow-dashboard.png)
 ## What I Learned
 - Building interactive dashboards
 - Identifying operational bottlenecks
