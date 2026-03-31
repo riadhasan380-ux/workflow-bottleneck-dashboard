@@ -13,7 +13,8 @@ This project analyzes service workflow performance using Power BI to identify bo
 - Excel
 
 ## Dashboard Preview
-(Add screenshot below)
+
+![Workflow Dashboard](workflow-dashboard.png)
 
 ## What I Learned
 - Building interactive dashboards
